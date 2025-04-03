@@ -39,7 +39,7 @@ Manager:
 <Fir>:
     name:'home'
     FitImage:
-        source:'a7.png'
+        source:'assests/a7.png'
     MDCarousel:
         id:c1
         direction:'right'
